@@ -1,7 +1,7 @@
 # Deploy-Flask
 <p align="center">  
 	<br>
-	 <img src="Image/Flask.png"> 
+	 <img src="image/Flask.png"> 
 	<br>
 	<br>
 </p>
